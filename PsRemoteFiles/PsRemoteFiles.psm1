@@ -41,7 +41,7 @@ Param(
 
     Description
     -----------
-    Copy file Tests.ps1 to the Docmuent folder of the User01 on computer Comp1
+    Copy file Tests.ps1 to the Docmuents folder of the User01 on computer Comp1
 
 #>
 }
