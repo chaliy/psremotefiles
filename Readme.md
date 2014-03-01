@@ -32,7 +32,7 @@ Installation
 
 With [PsGet](https://github.com/chaliy/psget/) run:
 
-    install-module https://github.com/chaliy/psremotefiles/raw/master/PsRemoteFiles/PsRemoteFiles.psm1
+    Install-Module -ModuleUrl https://raw.github.com/chaliy/psremotefiles/master/PsRemoteFiles/PsRemoteFiles.psm1
 
 Roadmap
 =======
